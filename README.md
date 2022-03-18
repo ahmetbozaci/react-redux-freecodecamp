@@ -1,12 +1,12 @@
 ## React-Redux Practice
-### This repository include react practice from [freecodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux)
+### This repository include react-redux practice from [freecodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux)
 
 ## Authors
 
 👤 **Ahmet Bozacı**
-- Github:[ahmetbozaci](https://github.com/ahmetbozaci)
-- Twitter:[ahmtbozaci](https://twitter.com/ahmtbozaci)
-- LinkedIn:[ahmetbozaci](https://www.linkedin.com/in/ahmetbozaci/)
+- [Github](https://github.com/ahmetbozaci)
+- [Twitter](https://twitter.com/ahmtbozaci)
+- [LinkedIn](https://www.linkedin.com/in/ahmetbozaci/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
